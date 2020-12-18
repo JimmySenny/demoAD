@@ -1,0 +1,14 @@
+a.out
+
+*.o
+*.a
+*.so
+*.out
+
+*.tar
+*.tar.gz
+*.tgz
+
+*.swp
+
+*.tst
